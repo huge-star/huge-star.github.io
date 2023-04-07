@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>The Insititute of Applied Mathematics and System Science</a>. Beijing, China. 
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   address: >
     <p>South Building</p>
     <p>The Insititute of Applied Mathematics and System Science</p>
-    <p>Haidian, Beijing 100190</p>
+    <p>Beijing, China 100190</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
