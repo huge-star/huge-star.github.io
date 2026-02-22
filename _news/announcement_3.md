@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-05-28
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Received the <a href="https://amss.cas.cn/zhxw/2022news/202205/t20220528_6455016.html">Best Student Paper Award</a> at IEEE ICASSP 2022!

@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The Insititute of Applied Mathematics and System Science</a>. Beijing, China. 
+subtitle: <a href='http://www.amss.ac.cn/'>Academy of Mathematics and Systems Science</a>, Chinese Academy of Sciences
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>South Building</p>
-    <p>The Insititute of Applied Mathematics and System Science</p>
+  image_circular: false
+  more_info: >
     <p>Beijing, China 100190</p>
+    <p>Email: fanxilai@lsec.cc.ac.cn</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Computational Mathematics at the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS), advised by Prof. [Ya-Feng Liu](http://lsec.cc.ac.cn/~liuyf/). I received my B.Sc. degree in Information and Computing Science from Jilin University in 2021. My research focuses on optimization algorithms and their applications to signal processing and wireless communications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received the Best Student Paper Award at IEEE ICASSP 2022, and I was awarded the Hua Luogeng Scholarship, the highest honor for non-graduating students at the Institute of Mathematics, CAS.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Education
+
+- **Ph.D. in Computational Mathematics**, University of Chinese Academy of Sciences, 2021 - 2026 (expected)
+  - Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+  - Advisor: Prof. Ya-Feng Liu
+- **B.Sc. in Information and Computing Science**, Jilin University, 2017 - 2021
+  - Tang Aoqing Science Experimental Class
+  - GPA: 3.95/4, Rank: 1/85
