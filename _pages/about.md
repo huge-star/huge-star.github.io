@@ -17,9 +17,9 @@ selected_papers: true
 social: true
 ---
 
-I am a PhD candidate in Computational Mathematics at the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS), advised by Prof. [Ya-Feng Liu](http://lsec.cc.ac.cn/~liuyf/). I received my B.Sc. degree in Information and Computing Science from Jilin University in 2021. My research focuses on optimization algorithms and their applications to signal processing and wireless communications.
+I am a PhD candidate in Computational Mathematics at the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS), advised by Prof. [Ya-Feng Liu](https://sites.google.com/view/yafengliu/). I received my B.Sc. degree in Information and Computing Science from Jilin University in 2021. My research focuses on optimization algorithms and their applications to signal processing and wireless communications.
 
-I received the Best Student Paper Award at IEEE ICASSP 2022, and I was awarded the Hua Luogeng Scholarship, the highest honor for non-graduating students at the Institute of Mathematics, CAS.
+I received the Best Student Paper Award at IEEE ICASSP 2022, and I was awarded the Hua Luogeng Scholarship from CAS.
 
 ## Education
 
